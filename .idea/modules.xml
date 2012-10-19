@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/tpp.iml" filepath="$PROJECT_DIR$/.idea_modules/tpp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/tpp-build.iml" filepath="$PROJECT_DIR$/.idea_modules/tpp-build.iml" />
+    </modules>
+  </component>
+</project>
+
